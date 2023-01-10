@@ -1,0 +1,6 @@
+from leboss import*
+from alexis import*
+from module1 import*
+alexis()
+leboss()
+module1()
